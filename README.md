@@ -6,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A state-of-the-art cybersecurity project using **Explainable AI (XAI)** to detect ransomware through behavioral analysis. This framework combines generative-style anomaly detection with discriminative classification to provide highly accurate and transparent security auditing.
+LIVE DEMO :https://explainable-ai-ransomware-detection-1.onrender.com
 
 ## 🚀 Key Features
 
